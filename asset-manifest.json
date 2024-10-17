@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Ankur-3012/Port-Folio.git/static/css/main.d10d9912.css",
+    "main.js": "/Ankur-3012/Port-Folio.git/static/js/main.655b2672.js",
+    "static/js/453.1407b060.chunk.js": "/Ankur-3012/Port-Folio.git/static/js/453.1407b060.chunk.js",
+    "static/media/color-sharp.png": "/Ankur-3012/Port-Folio.git/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/Ankur-3012/Port-Folio.git/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/contact-img.jpeg": "/Ankur-3012/Port-Folio.git/static/media/contact-img.afb45fa6c4bdc4fef197.jpeg",
+    "static/media/project-img3.png": "/Ankur-3012/Port-Folio.git/static/media/project-img3.0ca4289d5a4d4935df3b.png",
+    "static/media/project-img4.png": "/Ankur-3012/Port-Folio.git/static/media/project-img4.97035b762de7eb7a3402.png",
+    "static/media/banner-bg.png": "/Ankur-3012/Port-Folio.git/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/Ankur-3012/Port-Folio.git/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/Ankur-3012/Port-Folio.git/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Ankur-3012/Port-Folio.git/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Ankur-3012/Port-Folio.git/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/Ankur-3012/Port-Folio.git/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/Ankur-3012/Port-Folio.git/static/media/project-img2.d16f57a34d365a3bc87d.png",
+    "static/media/project-img5.png": "/Ankur-3012/Port-Folio.git/static/media/project-img5.d968d088e4b9625b3748.png",
+    "static/media/project-img6.png": "/Ankur-3012/Port-Folio.git/static/media/project-img6.191e96393beffab0a00d.png",
+    "static/media/revicons.eot": "/Ankur-3012/Port-Folio.git/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Ankur-3012/Port-Folio.git/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Ankur-3012/Port-Folio.git/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/Ankur-3012/Port-Folio.git/static/media/meter2.8e8a0e57591c8bc3f7a5d17945c32341.svg",
+    "static/media/meter1.svg": "/Ankur-3012/Port-Folio.git/static/media/meter1.37dc98ac86805d4be6dd54b5dcf313e4.svg",
+    "static/media/meter3.svg": "/Ankur-3012/Port-Folio.git/static/media/meter3.b470774f63043b1d7954363015d35ede.svg",
+    "static/media/nav-icon3.svg": "/Ankur-3012/Port-Folio.git/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/meter4.svg": "/Ankur-3012/Port-Folio.git/static/media/meter4.261a2cb70aff2c62902715698246ddfb.svg",
+    "static/media/nav-icon2.svg": "/Ankur-3012/Port-Folio.git/static/media/nav-icon2.7f3e1a61321e0a947993045e1f8cfd5a.svg",
+    "static/media/logo.svg": "/Ankur-3012/Port-Folio.git/static/media/logo.830571a103179c1780e6df16129ff415.svg",
+    "index.html": "/Ankur-3012/Port-Folio.git/index.html",
+    "static/media/nav-icon1.svg": "/Ankur-3012/Port-Folio.git/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/Ankur-3012/Port-Folio.git/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/Ankur-3012/Port-Folio.git/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.d10d9912.css.map": "/Ankur-3012/Port-Folio.git/static/css/main.d10d9912.css.map",
+    "main.655b2672.js.map": "/Ankur-3012/Port-Folio.git/static/js/main.655b2672.js.map",
+    "453.1407b060.chunk.js.map": "/Ankur-3012/Port-Folio.git/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d10d9912.css",
+    "static/js/main.655b2672.js"
+  ]
+}
