@@ -62,7 +62,7 @@ export const Banner = () => {
                       <span className="wrap">{text}</span>
                     </span>
                   </h1>
-                  <p>I'm a passionate software developer with a strong interest in system programming, hacking, machine learning, and creating innovative solutions. Scroll ahead to get to know more about my skills.</p>
+                  <p>I'm a passionate Web developer with a strong interest in system programming, hacking, machine learning, and creating innovative solutions. Scroll ahead to get to know more about my skills.</p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
                 </div>
               }
